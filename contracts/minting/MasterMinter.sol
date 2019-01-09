@@ -21,7 +21,7 @@
 
 pragma solidity ^0.4.24;
 
-import './MintController.sol';
+import "./MintController.sol";
 
 contract MasterMinter is MintController {
 
